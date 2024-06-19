@@ -1,0 +1,5 @@
+streamlit
+tweepy
+openai
+python-dotenv
+pandas
